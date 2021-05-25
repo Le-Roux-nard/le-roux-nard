@@ -3,4 +3,4 @@
 
 
 
-<img align="left" alt="Le-roux-nard stats" src="https://github-readme-stats.vercel.appapi/top-langs/?username=Le-roux-nard&layout=compact&theme=highcontrast" />
+<img align="left" alt="Le-roux-nard stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-roux-nard&layout=compact&theme=highcontrast" />
