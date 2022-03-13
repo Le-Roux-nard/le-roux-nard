@@ -7,7 +7,7 @@
 # 📊GitHub Stats :
 
 <div>
-  <img src="https://api.daily.dev/devcards/3e18e9f0bef140f1a2542cc920c87947.png?r=19h" width="400" align="right" />
+  <img src="https://api.daily.dev/devcards/3e18e9f0bef140f1a2542cc920c87947.png?r=19h" width="350" align="right" />
   <img
 	  src="https://github-readme-stats.vercel.app/api?username=Le-Roux-Nard&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true"
     align="left"
